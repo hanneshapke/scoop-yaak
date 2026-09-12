@@ -1,13 +1,13 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "description": "Translate natural language to bash commands using any OpenAI-compatible LLM",
     "homepage": "https://github.com/hanneshapke/yaak",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-  "url": "https://github.com/hanneshapke/yaak/releases/download/v0.2.1/yaak-v0.2.1-x86_64-pc-windows-msvc.zip",
-  "hash": "89cc16646c593eb59adbd4d3f1045933312f184381952e4b2b816d167cd051cf",
-  "extract_dir": "yaak-v0.2.1-x86_64-pc-windows-msvc"
+  "url": "https://github.com/hanneshapke/yaak/releases/download/v0.2.2/yaak-v0.2.2-x86_64-pc-windows-msvc.zip",
+  "hash": "9f9fd92b400b37fcd8f2c504de6ada1c85ae0ae8281234aecd22a5ae409c7a3e",
+  "extract_dir": "yaak-v0.2.2-x86_64-pc-windows-msvc"
         }
     },
     "bin": "yaak.exe",
